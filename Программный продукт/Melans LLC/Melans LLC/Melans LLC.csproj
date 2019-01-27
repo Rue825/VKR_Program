@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7FB0A680-E98A-4E5C-9FC5-750B6FCFEF40}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Melans_LLC</RootNamespace>
+    <AssemblyName>Melans LLC</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\HellCat\Desktop\Melans LLC\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/Melans LLC/</UpdateUrl>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>99717e8ae2c9a113c76b226ea985a0b1--m-letter-big-letters.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0A36413629A05C3AAE725283597D98DA99AF9FF4</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Melans LLC_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Для программного продукта\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="FlatUI">
+      <HintPath>..\..\..\Для программного продукта\FlatUI.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\Для программного продукта\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\Для программного продукта\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\..\..\Для программного продукта\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Для программного продукта\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Для программного продукта\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Avtoriz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avtoriz.Designer.cs">
+      <DependentUpon>Avtoriz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Con_Base.cs" />
+    <Compile Include="Dlya_Administratora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dlya_Administratora.Designer.cs">
+      <DependentUpon>Dlya_Administratora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dlya_Injenera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dlya_Injenera.Designer.cs">
+      <DependentUpon>Dlya_Injenera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dlya_Otdela_Kadrov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dlya_Otdela_Kadrov.Designer.cs">
+      <DependentUpon>Dlya_Otdela_Kadrov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dlya_Systemnogo_Administratora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dlya_Systemnogo_Administratora.Designer.cs">
+      <DependentUpon>Dlya_Systemnogo_Administratora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedBack.Designer.cs">
+      <DependentUpon>FeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iTextSharp\text\Color.cs" />
+    <Compile Include="Korzina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Korzina.Designer.cs">
+      <DependentUpon>Korzina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Melans_LLCDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Melans_LLCDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PanelSettingsInterface\UCSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelSettingsInterface\UCSettings.Designer.cs">
+      <DependentUpon>UCSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Registracia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registracia.Designer.cs">
+      <DependentUpon>Registracia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reg_Info.cs" />
+    <Compile Include="SendMail.cs" />
+    <Compile Include="Settings_Interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings_Interface.Designer.cs">
+      <DependentUpon>Settings_Interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StatistikaProiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatistikaProiz.Designer.cs">
+      <DependentUpon>StatistikaProiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GetSetStyleTheme.cs" />
+    <Compile Include="Uslugi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uslugi.Designer.cs">
+      <DependentUpon>Uslugi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vosstanovlenie_parolya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vosstanovlenie_parolya.Designer.cs">
+      <DependentUpon>Vosstanovlenie_parolya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm.Designer.cs">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zastavka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zastavka.Designer.cs">
+      <DependentUpon>Zastavka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Avtoriz.resx">
+      <DependentUpon>Avtoriz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dlya_Administratora.resx">
+      <DependentUpon>Dlya_Administratora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dlya_Injenera.resx">
+      <DependentUpon>Dlya_Injenera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dlya_Otdela_Kadrov.resx">
+      <DependentUpon>Dlya_Otdela_Kadrov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dlya_Systemnogo_Administratora.resx">
+      <DependentUpon>Dlya_Systemnogo_Administratora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedBack.resx">
+      <DependentUpon>FeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korzina.resx">
+      <DependentUpon>Korzina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelSettingsInterface\UCSettings.resx">
+      <DependentUpon>UCSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registracia.resx">
+      <DependentUpon>Registracia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings_Interface.resx">
+      <DependentUpon>Settings_Interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatistikaProiz.resx">
+      <DependentUpon>StatistikaProiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uslugi.resx">
+      <DependentUpon>Uslugi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vosstanovlenie_parolya.resx">
+      <DependentUpon>Vosstanovlenie_parolya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitForm.resx">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zastavka.resx">
+      <DependentUpon>Zastavka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Melans LLC_TemporaryKey.pfx" />
+    <None Include="Melans_LLCDataSet.xsc">
+      <DependentUpon>Melans_LLCDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Melans_LLCDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Melans_LLCDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Melans_LLCDataSet.xss">
+      <DependentUpon>Melans_LLCDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 - Заставка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\76.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\76 %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rrRT3TncqfU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a64063dea90a7c34b18c356af0075e4c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\99717e8ae2c9a113c76b226ea985a0b1--m-letter-big-letters.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="99717e8ae2c9a113c76b226ea985a0b1--m-letter-big-letters.ico" />
+    <Content Include="Resources\blacklogo.png" />
+    <Content Include="Resources\darklogomain.gif" />
+    <None Include="Resources\download %282%29.gif" />
+    <None Include="Resources\download12.gif" />
+    <Content Include="Resources\whitelogomain.gif" />
+    <None Include="Resources\blacklogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
