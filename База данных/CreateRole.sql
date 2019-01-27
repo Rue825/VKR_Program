@@ -1,0 +1,79 @@
+CREATE ROLE Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Avtorizacia] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Doljnost] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Grafik_Raboti] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Injener] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Instructaj] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Klient] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Mesto_raboti] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Prinyatie_documenta] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Rabotodatel_otdela_kadrov] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Registracia_polzovatelya] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Role] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Sobesedovanie] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Soiskatel] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Systemni_administrator] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Technika] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Uslugi] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Vid_instructaja] to Administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Zayavki] to Administrator
+
+CREATE ROLE Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Avtorizacia] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Doljnost] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Grafik_Raboti] to Injener
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Injener] to Injener
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Instructaj] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Klient] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Mesto_raboti] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Prinyatie_documenta] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Rabotodatel_otdela_kadrov] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Registracia_polzovatelya] to Injener
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Role] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Sobesedovanie] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Soiskatel] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Systemni_administrator] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Technika] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Uslugi] to Injener
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Vid_instructaja] to Injener
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Zayavki] to Injener
+
+CREATE ROLE Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Avtorizacia] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Doljnost] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Grafik_Raboti] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Injener] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Instructaj] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Klient] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Mesto_raboti] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Prinyatie_documenta] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Rabotodatel_otdela_kadrov] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Registracia_polzovatelya] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Role] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Sobesedovanie] to Otdel_kadrov
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Soiskatel] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Systemni_administrator] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Technika] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Uslugi] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Vid_instructaja] to Otdel_kadrov
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Zayavki] to Otdel_kadrov
+
+CREATE ROLE Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Avtorizacia] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Doljnost] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Grafik_Raboti] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Injener] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Instructaj] to Systemni_administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Klient] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Mesto_raboti] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Prinyatie_documenta] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Rabotodatel_otdela_kadrov] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Registracia_polzovatelya] to Systemni_administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Role] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Sobesedovanie] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Soiskatel] to Systemni_administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Systemni_administrator] to Systemni_administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Technika] to Systemni_administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Uslugi] to Systemni_administrator
+REVOKE SELECT, INSERT, DELETE, UPDATE ON [DBO].[Vid_instructaja] to Systemni_administrator
+GRANT SELECT, INSERT, DELETE, UPDATE ON [DBO].[Zayavki] to Systemni_administrator
