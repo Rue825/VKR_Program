@@ -1,0 +1,76 @@
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\Melans LLC.exe.config
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\Melans LLC.exe
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\Melans LLC.pdb
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\FlatUI.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\itextsharp.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\itextsharp.pdfa.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\itextsharp.xtra.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\MetroFramework.Design.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\MetroFramework.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\MetroFramework.Fonts.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\itextsharp.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Avtoriz.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Dlya_Administratora.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Dlya_Injenera.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Dlya_Otdela_Kadrov.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Dlya_Systemnogo_Administratora.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.FeedBack.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Korzina.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.MainWindow.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.PanelSettingsInterface.UCSettings.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Registracia.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Settings_Interface.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.StatistikaProiz.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Uslugi.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Vosstanovlenie_parolya.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Zastavka.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.Properties.Resources.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.csproj.GenerateResource.cache
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.csproj.CoreCompileInputs.cache
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.csproj.CopyComplete
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.exe
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.pdb
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.WaitForm.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\Melans LLC.exe.manifest
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\Melans LLC.application
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.exe.manifest
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.application
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Data.v17.2.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Data.v17.2.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans_LLC.AddZadach.resources
+D:\МПТ\4 курс\Производственная практика\Практика 26 сентября - 5 декабря\Программный продукт\Melans LLC\Melans LLC\obj\Debug\Melans LLC.csprojAssemblyReference.cache
